@@ -11,7 +11,7 @@ This is a simple and interactive image gallery showcasing images of Indian badmi
 
 ## Screenshot
 
-![Image Gallery Screenshot](./output-SS)
+![Image Gallery Screenshot](output-SS.png)
 
 *Above is a screenshot of the image gallery in action.*
 
